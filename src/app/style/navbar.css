@@ -1,0 +1,16 @@
+.navbarMain{
+display: flex;
+justify-content: start;
+align-items: center;
+height: 100px;
+padding: 50px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:active{
+    color: white;
+}
