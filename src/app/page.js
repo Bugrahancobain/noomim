@@ -40,7 +40,7 @@ export default function Home() {
     <div className="homeMain">
       <div className="overlay">
         <p>Under Construction</p>
-        <h1>NOOMİM</h1>
+        <h1>NOOMİM SENTETIC</h1>
         <IoIosMail className="mailIcon" onClick={openPopUp} />
         <div className={`popup ${showPopup ? "show" : ""}`}>
           <button className="closeBtn" onClick={closePopup}>X</button>

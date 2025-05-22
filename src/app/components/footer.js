@@ -5,7 +5,7 @@ import Link from 'next/link'
 function Footer() {
     return (
         <div className='footerMain'>
-            <span>© NOOMİM 2025. ALL RIGHTS RESERVED.</span>
+            <span>© NOOMİM. ALL RIGHTS RESERVED.</span>
             <div className='footerLinks'>
                 <Link href="/privacyPolicy">Privacy Policy</Link>
                 <Link href="/cookiePolicy">Cookie Policy</Link>
