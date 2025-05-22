@@ -6,7 +6,7 @@ function page() {
             <h1><strong>Cookie Policy</strong></h1>
             <div><strong>Effective Date: May 21, 2025</strong></div>
 
-            <div>This Cookie Policy explains how Noomim ("we", "us", or "our") uses cookies and similar technologies on our website (www.noomim.com).</div>
+            <div>This Cookie Policy explains how Noomim (&quot;we&quot;, &quot;us&quot;, or &quot;our&quot;) uses cookies and similar technologies on our website (www.noomim.com).</div>
 
             <div><strong>What Are Cookies?</strong></div>
             <div>Cookies are small text files stored on your device by your web browser. They are widely used to make websites work more efficiently and to provide information to website owners.</div>
